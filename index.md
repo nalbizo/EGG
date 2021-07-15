@@ -49,7 +49,7 @@ a { zoom: 1;}
 <!-- 2. Sidebar content -->
 	<div id="sidebar_nav" class="sc">
     <h3> A BETTER BOTTOM LINE</h3>
-<p class="quote">EGG creates a positive impact on employee health, productivity, retention and morale – and helps reduce building operations costs.</p>
+<p class="quote">EGG creates a positive impact on employee health, productivity, retention and morale&#8212and helps reduce building operations costs.</p>
 
     </div>
 
